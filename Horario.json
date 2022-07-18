@@ -4,20 +4,23 @@
         "Hora": "none",
         "Periocidad": "No especificado",
         "Modalidad": "none",
-        "Profesor": "none"
+        "Profesor": "none",
+        "Recinto": "none"
     },
     {
         "Materia": "Ingenieria en Software 1",
         "Hora": "none",
         "Periocidad": "No especificado",
         "Modalidad": "none",
-        "Profesor": "none"
+        "Profesor": "none",
+        "Recinto": "none"
     },
     {
         "Materia": "Contabilidad y finanzas",
         "Hora": "none",
         "Periocidad": "No especificado",
         "Modalidad": "none",
-        "Profesor": "none"
+        "Profesor": "none",
+        "Recinto": "none"
     }
 ]
