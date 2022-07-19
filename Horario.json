@@ -1,21 +1,24 @@
 [
     {
         "Materia": "Arquitectura de Hardware",
-        "Hora": "None",
+        "Dia": "Sabado",
+        "Hora": "9:45am-11:15am",
         "Periocidad": "No especificado",
         "Curso": "Virtual",
         "Profesor": "none"
     },
     {
         "Materia": "Ingenieria en Software 1",
-        "Hora": "none",
+        "Dia": "Sabado",
+        "Hora": "11:30am-1pm",
         "Periocidad": "No especificado",
         "Curso": "Virtual",
         "Profesor": "none"
     },
     {
         "Materia": "Contabilidad y finanzas",
-        "Hora": "none",
+        "Dia": "Martes",
+        "Hora": "6:45pm-8:15pm",
         "Periocidad": "No especificado",
         "Curso": "Virtual",
         "Profesor": "none"
