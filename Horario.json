@@ -13,7 +13,7 @@
         "Hora": "11:30am-1pm",
         "Periocidad": "No especificado",
         "Curso": "Virtual",
-        "Profesor": "none"
+        "Profesor": "Solanlly Martinez"
     },
     {
         "Materia": "Contabilidad y finanzas",
@@ -21,6 +21,6 @@
         "Hora": "6:45pm-8:15pm",
         "Periocidad": "No especificado",
         "Curso": "Virtual",
-        "Profesor": "none"
+        "Profesor": "Milagros Cabrera"
     }
 ]
